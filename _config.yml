@@ -24,9 +24,9 @@ title:                 Jin Lee
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           
-	42Seoul Cadet (21.04 ~ now)
-	Pursuing Bachelor's Degree in Electric Engineering
+description:           >
+  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
 tagline: 				Currently Learning C
