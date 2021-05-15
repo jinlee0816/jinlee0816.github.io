@@ -29,7 +29,7 @@ description:            >
   Pursuing Bachelor's Degree in Electric Engineering
 
 # A shorter description for the sidebar.
-tagline:               Currently Learning C
+tagline:               42Seoul Cadet (21.04 ~ now)
 
 # A list of keywords for your blog
 keywords:              [C, Electric Engineering]
@@ -45,7 +45,7 @@ author:
   name:                <Jin> <Lee>
   email:               <42.4.jinwolee@gmail.com>
   # # Used by `jekyll-seo-tag`:
-  instagram:           <jinlee0108>
+  twitter:           <jinlee0108>
 
 # Add links to the sidebar.
 menu:
