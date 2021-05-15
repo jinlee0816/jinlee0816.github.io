@@ -20,19 +20,19 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Jin Lee
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+	42Seoul Cadet (21.04 ~ now)
+	Pursuing Bachelor's Degree in Electric Engineering
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline: 				Currently Learning C
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [C, Electric Engineering]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
